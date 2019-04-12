@@ -5,4 +5,3 @@ The code here works on tensorflow backend an makes use of the standard Keras lib
   b.) Import the classifier
   c.) Make the CNN and add layers to it.
 Rest i have made the code to run on 2 epochs and got a 95%+ accuraccy.
-Hope you like my efforts. Cheers .!
