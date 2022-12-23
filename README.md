@@ -1,5 +1,5 @@
 # Neural Network
-A CNN that solves the MNIST challenge
+A Convolutional Neural Network that solves the MNIST challenge
 The code here works on tensorflow backend an makes use of the standard Keras library to:
   a.) Import the datset
   b.) Import the classifier
